@@ -1,13 +1,16 @@
-👋 Hey there! I'm Dhruv Kamalesh Kumar, a passionate AI/ML enthusiast, and a creative Flutter developer. Currently, I'm on an exciting journey pursuing my Master's in AI at Khoury College of Computer Science.
+### Dhruv Kamalesh Kumar (DB) · AI Engineer, Boston
 
-🧠 As I dive deep into the realm of artificial intelligence and machine learning, I'm driven by a curiosity to unravel complex data puzzles and build intelligent solutions. My academic pursuits have honed my skills in NLP, Computer Vision, and more, allowing me to tackle real-world challenges with innovative AI approaches.
+I ship AI products end to end, from first prototype to thousands of real users.
 
-🚀 Flutter is my playground of creativity. With over 3 years of experience, I've crafted and deployed more than 20 apps on both Play Store and App Store. Through my Flutter projects, I strive to blend aesthetics with functionality, providing users with seamless and visually appealing experiences.
+Lead AI engineer on **[A‑IEP](https://github.com/The-Burnes-Center/a-iep)** at the Burnes Center for Social Change, Northeastern: an open source platform that turns special-education plans into plain language for parents, in their own language. 375+ IEPs read so far. Names and other identifiers are redacted before the analysis model reads a word.
 
-🔍 You can explore my AI/ML and Flutter journey through my GitHub repository, where you'll find projects that reflect my commitment to pushing boundaries and creating impactful solutions.
+**What I build**
 
-Let's connect and collaborate on LinkedIn: [Dhruv Kamalesh Kumar](https://www.linkedin.com/in/dhruvkamaleshkumar/)
+- **[A‑IEP](https://github.com/The-Burnes-Center/a-iep)**: OCR, redaction, translation and summarization pipeline for IEPs (AWS, Python, OpenAI)
+- **[ABE](https://github.com/The-Burnes-Center/ai4impact-abe-chatbot-osd)**: procurement assistant for the Massachusetts Operational Services Division; I lead its engineering
+- **[arc-control-mcp](https://github.com/DB-25/arc-control-mcp)**: a 26-tool MCP server that lets agents drive the Arc browser ([npm](https://www.npmjs.com/package/arc-control-mcp))
+- **[ME](https://github.com/DB-25/ME)**: my portfolio, a three.js particle field with an AI Director that tours you through the work
 
-Feel free to reach out at [kamaleshkumar.d@northeastern.edu](kamaleshkumar.d@northeastern.edu) to discuss anything from AI breakthroughs to Flutter finesse.
+Before Boston: sole engineer on the Acharya ERP Flutter app in Bangalore, used by every student and staff member. Monthly active users grew from 2,972 to 16,148 while I owned it.
 
-Let's code a smarter and more beautiful future together! 🌟
+**Portfolio:** [db-25.github.io/ME](https://db-25.github.io/ME/) · **Résumé:** [PDF](https://db-25.github.io/ME/resume.pdf) · **Email:** dhruvbaradiya@gmail.com · [LinkedIn](https://www.linkedin.com/in/dhruvkamaleshkumar/)
